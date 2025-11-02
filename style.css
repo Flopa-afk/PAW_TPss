@@ -1,0 +1,21 @@
+/* Base: Mobile first */
+body {
+  font-size: 14px;
+  background-color: #f0f0f0;
+}
+
+/* Tablet */
+@media (min-width: 600px) {
+  body {
+    font-size: 16px;
+    background-color: #7c8286;
+  }
+} 
+
+/* Desktop */
+/* @media (min-width: 1024px) {
+  body {
+    font-size: 18px;
+    background-color: #aed6f1;
+  }
+}  */
